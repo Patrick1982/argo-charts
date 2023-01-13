@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: chile 
+  name: cl 
   annotations:
     argocd.argoproj.io/sync-wave: "-1"
 
@@ -9,6 +9,6 @@ metadata:
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: colombia 
+  name: bo 
   annotations:
     argocd.argoproj.io/sync-wave: "-1"
