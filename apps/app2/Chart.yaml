@@ -23,8 +23,8 @@ sources:
   - 'https://github.com/Embonor-CocaCola/tasks-service'
 dependencies:
   - name: chart-base
-    #version: 0.0.4
-    repository: file://../../charts/chart-base
+    version: 0.0.1
+    repository: file://../chart-base
 maintainers:
   - name: Adrian Parry
     email: adrian.parry@reign.cl
