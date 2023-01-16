@@ -14,13 +14,7 @@ description: Helm chart for Embonor tasks-service
 # a dependency of application charts to inject those utilities and functions into the rendering
 # pipeline. Library charts do not define any templates and therefore cannot be deployed.
 type: application
-keywords:
-  - tasks
-  - service
-  - embonor
-home: 'https://github.com/Embonor-CocaCola/tasks-service'
-sources:
-  - 'https://github.com/Embonor-CocaCola/tasks-service'
+
 dependencies:
   - name: chart-base
     version: 0.0.1
